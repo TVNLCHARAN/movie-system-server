@@ -6,7 +6,7 @@ pydantic
 bcrypt
 python-jose
 passlib
-sklearn
+scikit-learn
 pandas
 numpy
 matplotlib
